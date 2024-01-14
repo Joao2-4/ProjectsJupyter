@@ -1,4 +1,18 @@
-Alguns gráficos gerados a partir dos meus estudos com Datasets públicos do site Kaggle.com
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Aumentar Tamanho da Letra</title>
+  <style>
+    .maior-fonte {
+      font-size: 1.5em; /* Ajuste o valor conforme necessário */
+    }
+  </style>
+</head>
+<body>
+  <p>Alguns gráficos gerados a partir dos meus estudos com Datasets públicos do site Kaggle.com</p>
+  <p><span class="maior-fonte">Texto com tamanho de letra aumentado.</span></p>
+</body>
+</html>
 
 <br>
 <br>
