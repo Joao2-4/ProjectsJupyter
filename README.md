@@ -9,7 +9,7 @@
       font-family: Arial, sans-serif;
     }
 
-    #titulo {
+    titulo {
       font-size: 24px;  /* Ajuste o tamanho da fonte conforme necessário */
       font-weight: bold;
     }
