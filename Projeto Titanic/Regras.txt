@@ -1,0 +1,5 @@
+1 - Ordem coluna > Name, Age, Sex, Pclass, Survived
+2 - Sex: Somente mulheres
+3 - Pclass: Somente primeira class
+5 - Survived: Somente vivos
+4 - Name: Por onde alfabetica
