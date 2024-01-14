@@ -1,27 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meus Estudos no Kaggle</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
+Alguns gráficos gerados a partir dos meus estudos com Datasets públicos do site Kaggle.com
 
-    titulo {
-      font-size: 24px;  /* Ajuste o tamanho da fonte conforme necessário */
-      font-weight: bold;
-    }
-  </style>
-</head>
-<body>
-  <div id="titulo">Alguns gráficos gerados a partir dos meus estudos com Datasets públicos do site Kaggle.com</div>
+<br>
+<br>
+<br>
 
-  <!-- Adicione seus gráficos e conteúdo aqui -->
-
-</body>
-</html>
 ![GraficoCombustivel](https://github.com/Joao2-4/ProjectsJupyter/assets/143021352/10c65149-cc45-4307-af5a-bff7f5d33507)
 ![Total](https://github.com/Joao2-4/ProjectsJupyter/assets/143021352/a51b87e7-028f-4c32-aac3-7741980b3da6)
 ![Total2](https://github.com/Joao2-4/ProjectsJupyter/assets/143021352/b415bf9e-773f-4092-8c17-0e81ee65e871)
